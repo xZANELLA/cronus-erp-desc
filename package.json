@@ -1,0 +1,11 @@
+{
+  "name": "cronus-erp",
+  "version": "1.0.0",
+  "description": "Sistema Cronus ERP by Projetus Soluções",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Projetus Soluções",
+  "license": "ISC"
+}
