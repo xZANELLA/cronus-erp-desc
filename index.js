@@ -4,6 +4,8 @@ const PORT = process.env.PORT || 8081
 const hostname = "localhost"
 const session = require('express-session')
 const flash = require('connect-flash')
+const passport = require("passport")
+//require('./config/auth')(passport)
 
 
 //Sessão
@@ -12,6 +14,9 @@ app.use(session({
   resave: true,
   saveUninitialized: true
 }))
+app.use(passport.initialize())
+app.use(passport.session())
+app.use(flash())
 
 //Middleware
 app.use((req, res, next) => {
