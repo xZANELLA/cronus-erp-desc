@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cronus-erp",
+  "private_key_id": "aa35241e788803c7238217c7b0938ba40994c2ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs3uFbckmaQqgz\n9d+iJf7lKNOpO08yYgcQL1014mJqrQ7Yk8EHQBxlrgVpqU9E1phdVY6idCVwgqDT\n1ZWGIot5/iF+aww2U6/sow/4/aBILCV8+vOc4FenrzuKtxv7+I4ywkRubHr+FG+Y\nJ9YTqA/eLgB9M5GCXGWpirlOv4ACtY6enuohtkv4C4C+hy87DgOCz95Ctyw636dO\n0RGQ9mL6tiiClyYtscTOkadvcQfhDQViWzhhuTZ3JbuUkU4gr3uCBCg68Q1xGJTv\nDIZilfLO8M1ETM+9EMlzorvOVm68A2oGqQIpgvt0GjfZtlYlLpi5Sfgh0v5WuJBV\nXZJlZL3dAgMBAAECggEAPn23g4I1/zC3c0kflZMcqKRwl02cXH85RG2KyW7T2vJC\nWqJW9hMD8PHOfRq6UA0vORYzoKBR5HEkSE9+ZOXZ+7iVTQjPelgYUXfEz2KH7W8g\nAiUJqZ0jsrdS09tLn3ODm+/EIxLOB0lF6gAEkEiBq/R/MsNQh4p1Kau/PytU0CVN\n6WtAKeG/gHDOKIdPqsLA23x1Mof8pm8sJ9Z9lK3AhqBZ87H334DR6x38lOyk7e80\nKmC4h8DLktBJMECMFjHYixSiLPRBuhWDkBSJGsXxP/IwLfuLxlaUB/2A03tR6/yE\nIy9Mj28H+BYBnvUJDxy7VyAN3imjFdZjbn4vD8z81QKBgQD0EAh5g1L9dqVUgvxT\n8fvIAb10Zl9Z5zHKJSUDCN4ypuX2FW+Fvy/NNganczt2WvP/2eB1u9jpkC0fWAPW\nonhG07fH6MZqyfEIErBe1Ze2rKcdKEhKzDqzg5j2+k/xGwUKr8vK/vYpQLrUgUnJ\nnjk5AFq6VDcbITnHgPZ0NngJcwKBgQC1U29cISZWFAqLRBLrxjgncjBe3xBqOuoI\n9WL+iYcvBAvWtNHVV7BtcctfkDl7Uo18QARiRtt6PJvJ3RNTQ5WLDWXwowLD8+UF\n1gQTEgiTZxgp44yviderjy4ZlAVlHjeb/tXezKFsYyJsykGFJS3cmH3FFt3i+hc4\nCIt+uO+HbwKBgQCROf0g+TDn27KzYCHvfZ1ZvRdT7Rqt73FkHMgyTxOQxlkuHkE3\nL7WtAYniGCJ44dQxGR+ETxval00SSpg2HoU9d/vyu6Ndpf6D1EMYmzZkn8XtBqxF\nvdLsQNFDnVz2ViKg4kx85Uvq7jZ9/tS+YSUhswFJwJTt0s6D1UxRiJvS2wKBgEgh\nNo05ipx3QHKB090CbtgSLneu2ELJyMtjgcurPaFQRL1WFJp/VWlT+Qi8wID0J+Aj\nPxsxAKGxdm9oiAV5PwWfgMumrLTyUkpuBhTn+Y1ZV11ibVZuyOIwBLCcF0FQMeLW\nDpGgaR5KmSkZk9K5JXM5Hd7G5+Eghxf9HjB8tJv1AoGASQKE7TctvtZXgWXIH2xN\nBKGYU1tXsuW1iTRW0pzIeRNnX/uuQtt+rTM75B0JEo93KrdM0RwXMTrdz6KEw7m+\nGI8Nd7GFqyrbZxmFG4a6DwYFvrU9qse2Qb0jc0CtCYYBnAquL/5fwN+1Gi1Otx0G\nLu7M3ruA1kpGepiOM7EKWk0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets@cronus-erp.iam.gserviceaccount.com",
+  "client_id": "112122356100076031047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets%40cronus-erp.iam.gserviceaccount.com"
+}
